@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
+  url: http://blog.olabala.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog # the subpath of your site, e.g. /blog
 title: Simple Texture
 description: "A gem-based responsive simple texture styled Jekyll theme."
 keywords: 'jekyll,theme,gem-based,blog'
@@ -30,7 +30,7 @@ author:
   name: juhntao
   job_title:
   location: Shanghai, China
-  email: _blank
+  email: juhntao@live.com
   social_links:
     - name: facebook
       url:
